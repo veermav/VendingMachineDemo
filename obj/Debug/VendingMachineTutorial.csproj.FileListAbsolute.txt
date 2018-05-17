@@ -1,0 +1,15 @@
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.exe.config
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.csprojResolveAssemblyReference.cache
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\MainWindow.g.cs
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\App.g.cs
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial_MarkupCompile.cache
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial_MarkupCompile.lref
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.exe
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.pdb
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\App.baml
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\MainWindow.baml
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.g.resources
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.Properties.Resources.resources
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.csproj.GenerateResource.Cache
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.exe
+c:\users\vperilla\documents\visual studio 2015\Projects\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.pdb
